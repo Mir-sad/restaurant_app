@@ -18,6 +18,7 @@ function Category() {
         <GiNoodles />
         <h4>Thai</h4>
       </SLink>
+      
     </List>
     
   );
@@ -54,7 +55,7 @@ const SLink = styled(NavLink)`
     font-size: 1.5rem;
   }
   .active{
-    background: linear-gradient(ro right, #f27121, #e94057);
+    background: linear-gradient( right, #f27121, #e94057);
 
     svg{
       color:white;

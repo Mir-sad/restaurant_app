@@ -52,7 +52,7 @@ function Popular() {
               </SplideSlide>
             );
           })}
-        </Splide>
+          </Splide>
       </Wrapper>
     </div>
   );
